@@ -30,14 +30,8 @@ Data Scientist & Python / ML Developer based in Astana, Kazakhstan 🇰🇿
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gadilova&show_icons=true&theme=radial&count_private=true" alt="Gadilova's GitHub stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadilova&layout=compact&theme=radial" alt="Top Languages" height="175" />
-</p>
 
----
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** [aiganym-gadilova](https://www.linkedin.com/in/aiganym-gadilova-32463524b/?locale=en-US)
